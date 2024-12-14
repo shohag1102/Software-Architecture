@@ -1,0 +1,3 @@
+Why Amazon thinks integrating Sundarban is a liability?
+Ans:
+First of all, Amazon has it's own payment system(Amazon Pay). Sundarban’s payment system cannot function without bKash. Bkash is a third party system. As it is third party data can be breached. It's charges some amount for every transactions. Amazon handles millions of transactions per day. Amazon will have to pay extra fee for integrating Bkash, although Bkash will have customer information while amazon manages their user information without third party for providing security.
